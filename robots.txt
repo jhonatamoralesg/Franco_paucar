@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /perfil/jens-kronborg
+Noindex: /perfil/jens-kronborg
+Disallow: /perfil/boris-gersling
+Noindex: /perfil/boris-gersling
+Disallow: /perfil/evelyn-munoz
+Noindex: /perfil/evelyn-munoz
+Disallow: /perfil/alejandra-sanchez
+Noindex: /perfil/alejandra-sanchez
+Disallow: /perfil/carlos-vergara
+Noindex: /perfil/carlos-vergara
+Disallow: /perfil/jorge-palma
+Noindex: /perfil/jorge-palma
+Disallow: /perfil/rodrigo-munoz
+Noindex: /perfil/rodrigo-munoz
+
+Sitemap: https://web.splogistics.com/sitemap.xml
